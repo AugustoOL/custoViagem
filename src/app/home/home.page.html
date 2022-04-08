@@ -1,0 +1,25 @@
+<div class="d-flex flex-column m-4">
+  <h1 class="text-center">Custo Viagem</h1>
+  <label for="viagem" class="mb-3 mt-2" class="text-left">
+    <h5>Preço da gasolina:</h5>
+  </label>
+  <input type="number" id="gasolina" [(ngModel)]="precoGasolina">
+
+  <label for="viagem" class="mb-3 mt-2" class="text-left">
+    <h5>Distancia da viagem:</h5>
+  </label>
+  <input type="number" id="viagem" [(ngModel)]="distanciaViagem">
+
+  <label for="viagem" class="mb-3 mt-2" class="text-left">
+    <h5>Consumo do carro:</h5>
+  </label>
+  <input type="number" id="carro" [(ngModel)]="consumoCarro">
+
+  <div class="mx-auto">
+    <button class="btn btn-danger mt-3" (click)="calcularGastoTotal()">
+      Calcular
+    </button>
+  </div>
+  <h4 class="text-center">Gasto Total:</h4>
+  <h2 class="text-center">R$ {{gastoTotal}}</h2>
+</div>

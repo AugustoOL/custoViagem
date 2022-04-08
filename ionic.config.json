@@ -1,0 +1,7 @@
+{
+  "name": "custo-viagem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

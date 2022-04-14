@@ -1,12 +1,16 @@
 h1{
-  color:greenyellow;
+  color:yellow;
 }
 h2{
-  color: greenyellow;
+  color: white;
 }
 h4{
-  color: greenyellow;
+  color: white;
 }
 h5{
-  color: greenyellow;
+  color: yellow;
+}
+input[type="number"], textarea {
+  background-color : transparent; 
+  color : white;
 }

@@ -1,5 +1,5 @@
 <h1 align="center">
-   Calculadora de custo de uma viagem
+   Calculadora para saber custo de uma viagem
 </h1>
 
 <br>

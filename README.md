@@ -12,7 +12,7 @@ Exemplo: O usuario ira inserir o preço da gasolina, a distancia em Km da viagem
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="./demo.gif" alt="demo-web" height="425">
+  <img src="./viagem.gif" alt="demo-web" height="425">
 </div>
 
 ## ⚙ Configuração

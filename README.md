@@ -1,50 +1,50 @@
 <h1 align="center">
-   Desafio Automação de Testes da NextQA
+   Calculadora de custo de uma viagem
 </h1>
 
 <br>
 
-## 💻 Desafio
+## 💻 Projeto
 
-O desafio consiste em automatizar os cenários descritos abaixo da aplicação https://www.saucedemo.com/ 
-
-Cenários:
-1. Login com sucesso
-2. Login com senha inválida
-3. Efetuar a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
+O projeto foi desenvolvido com o objetivo de fazer uma calculadora que gere o custo de uma determinada viagem.
+Exemplo: O usuario ira inserir o preço da gasolina, a distancia em Km da viagem, e o consumo de seu carro entao sera calculado o valor medio que este usuario ira gastar para realizar a viagem.
 
 ## :camera: Demonstração
+
 <div align="center" >
-  1. Login com sucesso
-   <br>
-  <img src="./login.gif" alt="demo-web" height="425">
-</div>
-<br>
-<div align="center" >
-  2. Login com senha inválida
-   <br>
-  <img src="./test-results/tests-invalid-password-senha-incorreta-chromium/test-finished-1.png" alt="demo-web" height="425">
-</div>
-<div align="center" >
-   <br>
-   3. Efetuar a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
-  <img src="./teste.gif" alt="demo-web" height="425">
-  <img src="./order.gif" alt="demo-web" height="425">
+  <img src="./demo.gif" alt="demo-web" height="425">
 </div>
 
 ## ⚙ Configuração
 
-1- Para instalar as dependências:
-> 
+1- Pré requisitos
+> Node Js 
+> Git Bash
+> Visual Studio Code
+
 2- Para iniciar a aplicação:
+> Baixar o arquivo do projeto
+> Extrair o arquivo
+> Abrir a pasta com Git Bash
+
+3- Instalar dependencias 
+> npm i
+
+4- Iniciar Aplicaçao 
+> code .
+> ionic serve -o
 
 
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-✔️HTML
-
 ✔️Typescript
+
+✔️SCSS
+
+✔️JavaScript
+
+✔️HTML
 
 ---

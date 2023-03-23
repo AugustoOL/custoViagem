@@ -23,16 +23,16 @@ Exemplo: O usuario ira inserir o preço da gasolina, a distancia em Km da viagem
 -> Visual Studio Code
 
 2- Para iniciar a aplicação:
-> Baixar o arquivo do projeto
--> Extrair o arquivo
--> Abrir a pasta com Git Bash
+> Baixar o arquivo do projeto;
+> Extrair o arquivo;
+> Abrir a pasta com Git Bash
 
 3- Instalar dependencias 
--> npm i
+> npm i
 
 4- Iniciar Aplicaçao 
--> code .
--> ionic serve -o
+> code .;
+> ionic serve -o
 
 
 ## :rocket: Tecnologias
